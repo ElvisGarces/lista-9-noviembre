@@ -339,7 +339,7 @@ http://netsports.tk:80/QY9kCdDwiU/hmYu6ohQ6b/69571
 http://netsports.tk:80/QY9kCdDwiU/hmYu6ohQ6b/69654
 #EXTINF:-1,ES: AXN HD
 http://netsports.tk:80/QY9kCdDwiU/hmYu6ohQ6b/69605
-#EXTINF:-1,ES: AXN White HD
+#EXTINF:-1,ES: AXN White HD "group-title="CINE UHD 1*",
 http://netsports.tk:80/QY9kCdDwiU/hmYu6ohQ6b/69606
 #EXTINF:-1,ES: Baby TV
 http://netsports.tk:80/QY9kCdDwiU/hmYu6ohQ6b/75499
