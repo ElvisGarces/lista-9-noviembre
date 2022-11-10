@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,FR: 13eme rue HD" group-title="CINE UHD 1*",
+#EXTINF:-1,FR: 13eme rue HD", group-title="CINE UHD 1*",
 http://netsports.tk:80/QY9kCdDwiU/hmYu6ohQ6b/37930
 #EXTINF:-1,FR: 6ter HD
 http://netsports.tk:80/QY9kCdDwiU/hmYu6ohQ6b/37932
@@ -1031,7 +1031,7 @@ http://netsports.tk:80/QY9kCdDwiU/hmYu6ohQ6b/36422
 http://netsports.tk:80/QY9kCdDwiU/hmYu6ohQ6b/89328
 #EXTINF:-1,AR: Bahrain Sport 2
 http://netsports.tk:80/QY9kCdDwiU/hmYu6ohQ6b/89329
-#EXTINF:-1,AR: beIN Sports 1 HD
+#EXTINF:-1,AR: beIN Sports 1 HD8
 http://netsports.tk:80/QY9kCdDwiU/hmYu6ohQ6b/36540
 #EXTINF:-1,AR: beIN Sports 1 Premium HD
 http://netsports.tk:80/QY9kCdDwiU/hmYu6ohQ6b/36560
