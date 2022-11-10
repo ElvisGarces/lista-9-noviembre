@@ -1,4 +1,3 @@
-# lista-9-noviembre
 #EXTM3U
 #EXTINF:-1,CRONICA TV
 https://is-tucuman.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
